@@ -10,7 +10,7 @@
 <!-- Animated Typing SVG (Brushed Gold #D4AF37) -->
 <div align="center">
   <a href="https://github.com/YashRaool">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&duration=3000&pause=1000&color=D4AF37&center=true&vCenter=true&multiline=false&repeat=true&width=680&lines=Full-Stack+Web+Developer;AI-Assisted+Vibe+Coder+%26+Builder;Crafting+Clean+UI%2FUX+%26+Interactive+Web+Apps;Always+Learning%2C+Always+Shipping" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&duration=3000&pause=1000&color=D4AF37&center=true&vCenter=true&multiline=false&repeat=true&width=680&lines=CS+Student+%26+Full-Stack+Web+Developer;AI-Assisted+Builder+%26+Problem+Solver;Crafting+Clean+UI%2FUX+%26+Scalable+Web+Apps;Always+Learning%2C+Always+Shipping" alt="Typing SVG" />
   </a>
 </div>
 
@@ -42,14 +42,12 @@
   <tr>
     <td width="65%" valign="middle">
       <p>
-        Hi, I'm <b>Yash Raool</b> — a <b>Full-Stack Web Developer</b> and <b>AI-assisted vibe coder</b> focused on shipping sleek, high-performance web applications with smooth interactions and modern aesthetics.
+        Hi, I'm <b>Yash Raool</b> — a <b>Computer Science student</b> and <b>Full-Stack Web Developer</b> building fast, scalable web applications with clean UI and AI-driven workflows.
       </p>
       <ul>
-        <li><b>Currently building:</b> Full-stack web apps, clean UI systems, and AI-powered workflows with Google Antigravity, Claude Code, and ChatGPT.</li>
-        <li><b>Currently exploring:</b> Scalable backend architectures, interactive 3D web experiences, and cloud deployments on AWS & Render.</li>
-        <li><b>Open to collaborating on:</b> Innovative web apps, startup MVPs, and creative frontend projects.</li>
-        <li><b>Ask me about:</b> React, Next.js, Node.js, Python, Tailwind CSS, and AI development workflows.</li>
-        <li><b>Off the clock:</b> Clean minimalism, Formula 1 weekends, and great anime.</li>
+        <li><b>Currently building:</b> Production full-stack web apps, modern UI systems, and AI-powered workflows with Google Antigravity, Claude Code, ChatGPT, and Gemini.</li>
+        <li><b>Currently exploring:</b> Scalable backend architectures, interactive 3D web experiences, and cloud deployments on AWS, Vercel, and Render.</li>
+        <li><b>Open to collaborating on:</b> Freelance projects, startup MVPs, and high-impact web builds.</li>
         <li><b>Reach me at:</b> <a href="mailto:yashhraool9@gmail.com">yashhraool9@gmail.com</a></li>
       </ul>
     </td>
@@ -74,31 +72,40 @@
   <p><b>Languages</b></p>
   <a href="https://github.com/YashRaool">
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=py,js,ts,html,css,c&theme=dark" />
-      <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=py,js,ts,html,css,c&theme=light" />
-      <img src="https://skillicons.dev/icons?i=py,js,ts,html,css,c&theme=dark" alt="Languages: Python, JavaScript, TypeScript, HTML, CSS, C" />
+      <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=py,js,ts,c,php&theme=dark" />
+      <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=py,js,ts,c,php&theme=light" />
+      <img src="https://skillicons.dev/icons?i=py,js,ts,c,php&theme=dark" alt="Languages: Python, JavaScript, TypeScript, C, PHP" />
     </picture>
   </a>
 
-  <p><b>Frontend & Web Frameworks</b></p>
+  <p><b>Frontend</b></p>
   <a href="https://github.com/YashRaool">
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=react,nextjs,tailwind,vite,threejs&theme=dark" />
-      <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=react,nextjs,tailwind,vite,threejs&theme=light" />
-      <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,vite,threejs&theme=dark" alt="Frontend: React, Next.js, Tailwind CSS, Vite, Three.js" />
+      <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind,bootstrap,vite,threejs&theme=dark" />
+      <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind,bootstrap,vite,threejs&theme=light" />
+      <img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind,bootstrap,vite,threejs&theme=dark" alt="Frontend: React, Next.js, HTML5, CSS3, Tailwind CSS, Bootstrap, Vite, Three.js" />
     </picture>
   </a>
 
-  <p><b>Backend & Databases</b></p>
+  <p><b>Backend</b></p>
   <a href="https://github.com/YashRaool">
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=nodejs,express,prisma,mongodb,postgres&theme=dark" />
-      <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=nodejs,express,prisma,mongodb,postgres&theme=light" />
-      <img src="https://skillicons.dev/icons?i=nodejs,express,prisma,mongodb,postgres&theme=dark" alt="Backend & Databases: Node.js, Express, Prisma, MongoDB, PostgreSQL" />
+      <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=nodejs,express,prisma&theme=dark" />
+      <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=nodejs,express,prisma&theme=light" />
+      <img src="https://skillicons.dev/icons?i=nodejs,express,prisma&theme=dark" alt="Backend: Node.js, Express, Prisma" />
     </picture>
   </a>
 
-  <p><b>Cloud, Deployment & Developer Tools</b></p>
+  <p><b>Databases</b></p>
+  <a href="https://github.com/YashRaool">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=mongodb,postgres,mysql,firebase&theme=dark" />
+      <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=mongodb,postgres,mysql,firebase&theme=light" />
+      <img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql,firebase&theme=dark" alt="Databases: MongoDB, PostgreSQL, MySQL, Firebase" />
+    </picture>
+  </a>
+
+  <p><b>Cloud & Developer Tools</b></p>
   <a href="https://github.com/YashRaool">
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=aws,vercel,git,github,githubactions,vscode,postman,figma,npm&theme=dark" />
@@ -112,6 +119,7 @@
   <img src="https://img.shields.io/badge/IDE-Google%20Antigravity-D4AF37?style=for-the-badge&logo=google&logoColor=CCFF00&labelColor=000000" alt="Google Antigravity" />
   <img src="https://img.shields.io/badge/AI-Claude%20Code-D4AF37?style=for-the-badge&logo=anthropic&logoColor=FFFFFF&labelColor=000000" alt="Claude Code" />
   <img src="https://img.shields.io/badge/AI-ChatGPT-D4AF37?style=for-the-badge&logo=openai&logoColor=FFFFFF&labelColor=000000" alt="ChatGPT" />
+  <img src="https://img.shields.io/badge/AI-Gemini-D4AF37?style=for-the-badge&logo=googlegemini&logoColor=CCFF00&labelColor=000000" alt="Gemini" />
 </div>
 
 <br/>
