@@ -10,7 +10,7 @@
 <!-- Animated Typing SVG (Brushed Gold #D4AF37) -->
 <div align="center">
   <a href="https://github.com/YashRaool">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&duration=3000&pause=1000&color=D4AF37&center=true&vCenter=true&multiline=false&repeat=true&width=680&lines=Full-Stack+Web+Developer;AI-Assisted+Builder+%26+Problem+Solver;Crafting+Clean+UI%2FUX+%26+Interactive+Web+Apps;Always+Learning%2C+Always+Shipping" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&duration=3000&pause=1000&color=D4AF37&center=true&vCenter=true&multiline=false&repeat=true&width=680&lines=Full-Stack+Web+Developer;AI-Assisted+Vibe+Coder+%26+Builder;Crafting+Clean+UI%2FUX+%26+Interactive+Web+Apps;Always+Learning%2C+Always+Shipping" alt="Typing SVG" />
   </a>
 </div>
 
@@ -42,11 +42,11 @@
   <tr>
     <td width="65%" valign="middle">
       <p>
-        Hi, I'm <b>Yash Raool</b> — a <b>Full-Stack Web Developer</b> and <b>AI-assisted builder</b> focused on designing sleek, high-performance web applications with smooth interactions and modern aesthetics.
+        Hi, I'm <b>Yash Raool</b> — a <b>Full-Stack Web Developer</b> and <b>AI-assisted vibe coder</b> focused on shipping sleek, high-performance web applications with smooth interactions and modern aesthetics.
       </p>
       <ul>
-        <li><b>Currently building:</b> Full-stack web apps, clean UI systems, and AI-powered workflows.</li>
-        <li><b>Currently exploring:</b> Scalable backend architectures, interactive 3D web experiences, and C++ graphics programming.</li>
+        <li><b>Currently building:</b> Full-stack web apps, clean UI systems, and AI-powered workflows with Google Antigravity, Claude Code, and ChatGPT.</li>
+        <li><b>Currently exploring:</b> Scalable backend architectures, interactive 3D web experiences, and cloud deployments on AWS & Render.</li>
         <li><b>Open to collaborating on:</b> Innovative web apps, startup MVPs, and creative frontend projects.</li>
         <li><b>Ask me about:</b> React, Next.js, Node.js, Python, Tailwind CSS, and AI development workflows.</li>
         <li><b>Off the clock:</b> Clean minimalism, Formula 1 weekends, and great anime.</li>
@@ -74,9 +74,9 @@
   <p><b>Languages</b></p>
   <a href="https://github.com/YashRaool">
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=py,js,ts,html,css,c,cpp&theme=dark" />
-      <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=py,js,ts,html,css,c,cpp&theme=light" />
-      <img src="https://skillicons.dev/icons?i=py,js,ts,html,css,c,cpp&theme=dark" alt="Languages" />
+      <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=py,js,ts,html,css,c&theme=dark" />
+      <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=py,js,ts,html,css,c&theme=light" />
+      <img src="https://skillicons.dev/icons?i=py,js,ts,html,css,c&theme=dark" alt="Languages: Python, JavaScript, TypeScript, HTML, CSS, C" />
     </picture>
   </a>
 
@@ -85,7 +85,7 @@
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=react,nextjs,tailwind,vite,threejs&theme=dark" />
       <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=react,nextjs,tailwind,vite,threejs&theme=light" />
-      <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,vite,threejs&theme=dark" alt="Frontend Frameworks" />
+      <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,vite,threejs&theme=dark" alt="Frontend: React, Next.js, Tailwind CSS, Vite, Three.js" />
     </picture>
   </a>
 
@@ -94,18 +94,24 @@
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=nodejs,express,prisma,mongodb,postgres&theme=dark" />
       <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=nodejs,express,prisma,mongodb,postgres&theme=light" />
-      <img src="https://skillicons.dev/icons?i=nodejs,express,prisma,mongodb,postgres&theme=dark" alt="Backend and Databases" />
+      <img src="https://skillicons.dev/icons?i=nodejs,express,prisma,mongodb,postgres&theme=dark" alt="Backend & Databases: Node.js, Express, Prisma, MongoDB, PostgreSQL" />
     </picture>
   </a>
 
-  <p><b>Tools & Deployment</b></p>
+  <p><b>Cloud, Deployment & Developer Tools</b></p>
   <a href="https://github.com/YashRaool">
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=git,github,githubactions,vscode,vercel,postman,figma,npm&theme=dark" />
-      <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=git,github,githubactions,vscode,vercel,postman,figma,npm&theme=light" />
-      <img src="https://skillicons.dev/icons?i=git,github,githubactions,vscode,vercel,postman,figma,npm&theme=dark" alt="Tools and Deployment" />
+      <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=aws,vercel,git,github,githubactions,vscode,postman,figma,npm&theme=dark" />
+      <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=aws,vercel,git,github,githubactions,vscode,postman,figma,npm&theme=light" />
+      <img src="https://skillicons.dev/icons?i=aws,vercel,git,github,githubactions,vscode,postman,figma,npm&theme=dark" alt="Cloud & Tools: AWS, Vercel, Git, GitHub, GitHub Actions, VS Code, Postman, Figma, npm" />
     </picture>
   </a>
+
+  <p><b>AI Workflow & Platforms</b></p>
+  <img src="https://img.shields.io/badge/Cloud-Render-D4AF37?style=for-the-badge&logo=render&logoColor=FFFFFF&labelColor=000000" alt="Render" />
+  <img src="https://img.shields.io/badge/IDE-Google%20Antigravity-D4AF37?style=for-the-badge&logo=google&logoColor=CCFF00&labelColor=000000" alt="Google Antigravity" />
+  <img src="https://img.shields.io/badge/AI-Claude%20Code-D4AF37?style=for-the-badge&logo=anthropic&logoColor=FFFFFF&labelColor=000000" alt="Claude Code" />
+  <img src="https://img.shields.io/badge/AI-ChatGPT-D4AF37?style=for-the-badge&logo=openai&logoColor=FFFFFF&labelColor=000000" alt="ChatGPT" />
 </div>
 
 <br/>
