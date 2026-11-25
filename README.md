@@ -65,61 +65,67 @@
 
 <br/>
 
-<!-- Centered Tech Stack & Tools -->
+<!-- Centered Tech Stack & Tools (Individual Icons for Reliable Rendering) -->
 <h2 align="center">Tech Stack & Tools</h2>
 
 <div align="center">
   <p><b>Languages</b></p>
-  <a href="https://github.com/YashRaool">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=py,js,ts,c,php&theme=dark" />
-      <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=py,js,ts,c,php&theme=light" />
-      <img src="https://skillicons.dev/icons?i=py,js,ts,c,php&theme=dark" alt="Languages: Python, JavaScript, TypeScript, C, PHP" />
-    </picture>
-  </a>
+  <p>
+    <img src="https://skillicons.dev/icons?i=py&theme=dark" width="48" alt="Python" title="Python" />
+    <img src="https://skillicons.dev/icons?i=js&theme=dark" width="48" alt="JavaScript" title="JavaScript" />
+    <img src="https://skillicons.dev/icons?i=ts&theme=dark" width="48" alt="TypeScript" title="TypeScript" />
+    <img src="https://skillicons.dev/icons?i=c&theme=dark" width="48" alt="C" title="C" />
+    <img src="https://skillicons.dev/icons?i=php&theme=dark" width="48" alt="PHP" title="PHP" />
+  </p>
 
   <p><b>Frontend</b></p>
-  <a href="https://github.com/YashRaool">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind,bootstrap,vite,threejs&theme=dark" />
-      <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind,bootstrap,vite,threejs&theme=light" />
-      <img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind,bootstrap,vite,threejs&theme=dark" alt="Frontend: React, Next.js, HTML5, CSS3, Tailwind CSS, Bootstrap, Vite, Three.js" />
-    </picture>
-  </a>
+  <p>
+    <img src="https://skillicons.dev/icons?i=react&theme=dark" width="48" alt="React" title="React" />
+    <img src="https://skillicons.dev/icons?i=nextjs&theme=dark" width="48" alt="Next.js" title="Next.js" />
+    <img src="https://skillicons.dev/icons?i=html&theme=dark" width="48" alt="HTML5" title="HTML5" />
+    <img src="https://skillicons.dev/icons?i=css&theme=dark" width="48" alt="CSS3" title="CSS3" />
+    <img src="https://skillicons.dev/icons?i=tailwind&theme=dark" width="48" alt="Tailwind CSS" title="Tailwind CSS" />
+    <img src="https://skillicons.dev/icons?i=bootstrap&theme=dark" width="48" alt="Bootstrap" title="Bootstrap" />
+    <img src="https://skillicons.dev/icons?i=vite&theme=dark" width="48" alt="Vite" title="Vite" />
+    <img src="https://skillicons.dev/icons?i=threejs&theme=dark" width="48" alt="Three.js" title="Three.js" />
+  </p>
 
   <p><b>Backend</b></p>
-  <a href="https://github.com/YashRaool">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=nodejs,express,prisma&theme=dark" />
-      <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=nodejs,express,prisma&theme=light" />
-      <img src="https://skillicons.dev/icons?i=nodejs,express,prisma&theme=dark" alt="Backend: Node.js, Express, Prisma" />
-    </picture>
-  </a>
+  <p>
+    <img src="https://skillicons.dev/icons?i=nodejs&theme=dark" width="48" alt="Node.js" title="Node.js" />
+    <img src="https://skillicons.dev/icons?i=express&theme=dark" width="48" alt="Express.js" title="Express.js" />
+    <img src="https://skillicons.dev/icons?i=prisma&theme=dark" width="48" alt="Prisma" title="Prisma" />
+  </p>
 
   <p><b>Databases</b></p>
-  <a href="https://github.com/YashRaool">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=mongodb,postgres,mysql,firebase&theme=dark" />
-      <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=mongodb,postgres,mysql,firebase&theme=light" />
-      <img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql,firebase&theme=dark" alt="Databases: MongoDB, PostgreSQL, MySQL, Firebase" />
-    </picture>
-  </a>
+  <p>
+    <img src="https://skillicons.dev/icons?i=mongodb&theme=dark" width="48" alt="MongoDB" title="MongoDB" />
+    <img src="https://skillicons.dev/icons?i=postgres&theme=dark" width="48" alt="PostgreSQL" title="PostgreSQL" />
+    <img src="https://skillicons.dev/icons?i=mysql&theme=dark" width="48" alt="MySQL" title="MySQL" />
+    <img src="https://skillicons.dev/icons?i=firebase&theme=dark" width="48" alt="Firebase" title="Firebase" />
+  </p>
 
   <p><b>Cloud & Developer Tools</b></p>
-  <a href="https://github.com/YashRaool">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=aws,vercel,git,github,githubactions,vscode,postman,figma,npm&theme=dark" />
-      <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=aws,vercel,git,github,githubactions,vscode,postman,figma,npm&theme=light" />
-      <img src="https://skillicons.dev/icons?i=aws,vercel,git,github,githubactions,vscode,postman,figma,npm&theme=dark" alt="Cloud & Tools: AWS, Vercel, Git, GitHub, GitHub Actions, VS Code, Postman, Figma, npm" />
-    </picture>
-  </a>
+  <p>
+    <img src="https://skillicons.dev/icons?i=aws&theme=dark" width="48" alt="AWS" title="AWS" />
+    <img src="https://skillicons.dev/icons?i=vercel&theme=dark" width="48" alt="Vercel" title="Vercel" />
+    <img src="https://skillicons.dev/icons?i=git&theme=dark" width="48" alt="Git" title="Git" />
+    <img src="https://skillicons.dev/icons?i=github&theme=dark" width="48" alt="GitHub" title="GitHub" />
+    <img src="https://skillicons.dev/icons?i=githubactions&theme=dark" width="48" alt="GitHub Actions" title="GitHub Actions" />
+    <img src="https://skillicons.dev/icons?i=vscode&theme=dark" width="48" alt="VS Code" title="VS Code" />
+    <img src="https://skillicons.dev/icons?i=postman&theme=dark" width="48" alt="Postman" title="Postman" />
+    <img src="https://skillicons.dev/icons?i=figma&theme=dark" width="48" alt="Figma" title="Figma" />
+    <img src="https://skillicons.dev/icons?i=npm&theme=dark" width="48" alt="npm" title="npm" />
+  </p>
 
   <p><b>AI Workflow & Platforms</b></p>
-  <img src="https://img.shields.io/badge/Cloud-Render-D4AF37?style=for-the-badge&logo=render&logoColor=FFFFFF&labelColor=000000" alt="Render" />
-  <img src="https://img.shields.io/badge/IDE-Google%20Antigravity-D4AF37?style=for-the-badge&logo=google&logoColor=CCFF00&labelColor=000000" alt="Google Antigravity" />
-  <img src="https://img.shields.io/badge/AI-Claude%20Code-D4AF37?style=for-the-badge&logo=anthropic&logoColor=FFFFFF&labelColor=000000" alt="Claude Code" />
-  <img src="https://img.shields.io/badge/AI-ChatGPT-D4AF37?style=for-the-badge&logo=openai&logoColor=FFFFFF&labelColor=000000" alt="ChatGPT" />
-  <img src="https://img.shields.io/badge/AI-Gemini-D4AF37?style=for-the-badge&logo=googlegemini&logoColor=CCFF00&labelColor=000000" alt="Gemini" />
+  <p>
+    <img src="https://img.shields.io/badge/Cloud-Render-D4AF37?style=for-the-badge&logo=render&logoColor=FFFFFF&labelColor=000000" alt="Render" />
+    <img src="https://img.shields.io/badge/IDE-Google%20Antigravity-D4AF37?style=for-the-badge&logo=google&logoColor=CCFF00&labelColor=000000" alt="Google Antigravity" />
+    <img src="https://img.shields.io/badge/AI-Claude%20Code-D4AF37?style=for-the-badge&logo=anthropic&logoColor=FFFFFF&labelColor=000000" alt="Claude Code" />
+    <img src="https://img.shields.io/badge/AI-ChatGPT-D4AF37?style=for-the-badge&logo=openai&logoColor=FFFFFF&labelColor=000000" alt="ChatGPT" />
+    <img src="https://img.shields.io/badge/AI-Gemini-D4AF37?style=for-the-badge&logo=googlegemini&logoColor=CCFF00&labelColor=000000" alt="Gemini" />
+  </p>
 </div>
 
 <br/>
